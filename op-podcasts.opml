@@ -4,16 +4,17 @@
     <title>OP Podcasts</title>
     <url>https://raw.githubusercontent.com/cisene/op-podcasts/main/op-podcasts.opml</url>
     <dateCreated>Mon, 19 Feb 2024 10:30:00 +0100</dateCreated>
-    <dateModified>Mon, 19 Feb 2024 10:30:00 +0100</dateModified>
+    <dateModified>Mon, 19 Feb 2024 11:28:00 +0100</dateModified>
     <ownerName>Christopher Isene</ownerName>
     <ownerEmail>christopher.isene@gmail.com</ownerEmail>
   </head>
   <body>
 
-    <outline text="Svenska: Säkerhet" dateCreated="Mon, 19 Feb 2024 10:30:00 +0100" dateModified="Mon, 19 Feb 2024 10:53:00 +0100">
+    <outline text="Svenska: Säkerhet" dateCreated="Mon, 19 Feb 2024 10:30:00 +0100" dateModified="Mon, 19 Feb 2024 11:28:00 +0100">
       <outline type="link" version="RSS" language="sv" title="IT-säkerhetspodden" text="IT-säkerhetspodden" htmlUrl="https://www.itsakerhetspodden.se/series/it-sakerhetspodden/" xmlUrl="https://itsakerhetspodden.libsyn.com/rss" />
       <outline type="link" version="RSS" language="sv" title="Bli säker-podden" text="Bli säker-podden" htmlUrl="https://podcast.nikkasystems.com/@blisaker" xmlUrl="https://podcast.nikkasystems.com/@blisaker/feed.xml" />
       <outline type="link" version="RSS" language="sv" title="Med sikte på" text="Med sikte på" htmlUrl="http://www.soff.se/" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:220139752/sounds.rss" />
+      <outline type="link" version="RSS" language="sv" title="Säkerhetspodcasten" text="Säkerhetspodcasten" htmlUrl="http://sakerhetspodcasten.se/" xmlUrl="https://sakerhetspodcasten.libsyn.com/rss" />
     </outline>
     
     <outline text="Svenska: Samhälle" dateCreated="Mon, 19 Feb 2024 10:55:00 +0100" dateModified="Mon, 19 Feb 2024 10:55:00 +0100">
