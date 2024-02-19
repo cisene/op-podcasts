@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>OP Podcasts</title>
-    <url></url>
+    <url>https://raw.githubusercontent.com/cisene/op-podcasts/main/op-podcasts.opml</url>
     <dateCreated>Mon, 19 Feb 2024 10:30:00 +0100</dateCreated>
     <dateModified>Mon, 19 Feb 2024 10:30:00 +0100</dateModified>
     <ownerName>Christopher Isene</ownerName>
