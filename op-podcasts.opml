@@ -20,8 +20,9 @@
       <outline type="link" version="RSS" language="sv" title="Gräns" text="Gräns" htmlUrl="https://sverigesradio.se/grans" xmlUrl="https://api.sr.se/api/rss/pod/34795" />
     </outline>
 
-    <outline text="English: Security" dateCreated="Mon, 19 Feb 2024 11:01:00 +0100" dateModified="Mon, 19 Feb 2024 11:01:00 +0100">
+    <outline text="English: Security" dateCreated="Mon, 19 Feb 2024 11:01:00 +0100" dateModified="Mon, 19 Feb 2024 11:05:00 +0100">
       <outline type="link" version="RSS" language="en" title="Malicious Life" text="Malicious Life" htmlUrl="https://redcircle.com/shows/malicious-life" xmlUrl="https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f" />
+      <outline type="link" version="RSS" language="en" title="Darknet Diaries" text="Darknet Diaries" htmlUrl="https://darknetdiaries.com/" xmlUrl="https://feeds.megaphone.fm/darknetdiaries" />
     </outline>
 
 </body>
