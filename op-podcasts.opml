@@ -9,13 +9,20 @@
     <ownerEmail>christopher.isene@gmail.com</ownerEmail>
   </head>
   <body>
+
     <outline text="Svenska: Säkerhet" dateCreated="Mon, 19 Feb 2024 10:30:00 +0100" dateModified="Mon, 19 Feb 2024 10:53:00 +0100">
       <outline type="link" version="RSS" language="sv" title="IT-säkerhetspodden" text="IT-säkerhetspodden" htmlUrl="https://www.itsakerhetspodden.se/series/it-sakerhetspodden/" xmlUrl="https://itsakerhetspodden.libsyn.com/rss" />
       <outline type="link" version="RSS" language="sv" title="Bli säker-podden" text="Bli säker-podden" htmlUrl="https://podcast.nikkasystems.com/@blisaker" xmlUrl="https://podcast.nikkasystems.com/@blisaker/feed.xml" />
       <outline type="link" version="RSS" language="sv" title="Med sikte på" text="Med sikte på" htmlUrl="http://www.soff.se/" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:220139752/sounds.rss" />
     </outline>
+    
     <outline text="Svenska: Samhälle" dateCreated="Mon, 19 Feb 2024 10:55:00 +0100" dateModified="Mon, 19 Feb 2024 10:55:00 +0100">
       <outline type="link" version="RSS" language="sv" title="Gräns" text="Gräns" htmlUrl="https://sverigesradio.se/grans" xmlUrl="https://api.sr.se/api/rss/pod/34795" />
     </outline>
-  </body>
+
+    <outline text="English: Security" dateCreated="Mon, 19 Feb 2024 11:01:00 +0100" dateModified="Mon, 19 Feb 2024 11:01:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Malicious Life" text="Malicious Life" htmlUrl="https://redcircle.com/shows/malicious-life" xmlUrl="https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f" />
+    </outline>
+
+</body>
 </opml>
