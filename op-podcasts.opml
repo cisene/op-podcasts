@@ -9,8 +9,9 @@
     <ownerEmail>christopher.isene@gmail.com</ownerEmail>
   </head>
   <body>
-    <outline text="Säkerhet" dateCreated="Fri, 05 Apr 2019 00:00:00 +0100">
+    <outline text="Säkerhet" dateCreated="Mon, 19 Feb 2024 10:30:00 +0100" dateModified="Mon, 19 Feb 2024 10:50:00 +0100">
       <outline type="link" version="RSS" language="sv" title="IT-säkerhetspodden" text="IT-säkerhetspodden" htmlUrl="https://www.itsakerhetspodden.se/series/it-sakerhetspodden/" xmlUrl="https://itsakerhetspodden.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="sv" title="Bli säker-podden" text="Bli säker-podden" htmlUrl="https://podcast.nikkasystems.com/@blisaker" xmlUrl="https://podcast.nikkasystems.com/@blisaker/feed.xml" />
     </outline>
   </body>
 </opml>
