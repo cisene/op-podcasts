@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>OP Podcasts</title>
+    <url></url>
+    <dateCreated>Mon, 19 Feb 2024 10:30:00 +0100</dateCreated>
+    <dateModified>Mon, 19 Feb 2024 10:30:00 +0100</dateModified>
+    <ownerName>Christopher Isene</ownerName>
+    <ownerEmail>christopher.isene@gmail.com</ownerEmail>
+  </head>
+  <body>
+    <outline text="Säkerhet" dateCreated="Fri, 05 Apr 2019 00:00:00 +0100">
+      <outline type="link" version="RSS" language="sv" title="IT-säkerhetspodden" text="IT-säkerhetspodden" htmlUrl="https://www.itsakerhetspodden.se/series/it-sakerhetspodden/" xmlUrl="https://itsakerhetspodden.libsyn.com/rss" />
+    </outline>
+  </body>
+</opml>
