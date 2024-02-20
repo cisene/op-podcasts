@@ -4,7 +4,7 @@
     <title>OP Podcasts</title>
     <url>https://raw.githubusercontent.com/cisene/op-podcasts/main/op-podcasts.opml</url>
     <dateCreated>Mon, 19 Feb 2024 10:30:00 +0100</dateCreated>
-    <dateModified>Tue, 20 Feb 2024 09:20:00 +0100</dateModified>
+    <dateModified>Tue, 20 Feb 2024 10:35:00 +0100</dateModified>
     <ownerName>Christopher Isene</ownerName>
     <ownerEmail>christopher.isene@gmail.com</ownerEmail>
   </head>
@@ -34,6 +34,11 @@
       <outline type="link" version="RSS" language="en" title="Malicious Life" text="Malicious Life" htmlUrl="https://redcircle.com/shows/malicious-life" xmlUrl="https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f" />
       <outline type="link" version="RSS" language="en" title="Darknet Diaries" text="Darknet Diaries" htmlUrl="https://darknetdiaries.com/" xmlUrl="https://feeds.megaphone.fm/darknetdiaries" />
     </outline>
+
+    <outline text="English: Development - UX" dateCreated="Tue, 20 Feb 2024 10:35:00 +0100" dateModified="Tue, 20 Feb 2024 10:35:00 +0100">
+      <outline type="link" version="RSS" language="en" title="UX Podcast" text="UX Podcast" htmlUrl="https://uxpodcast.com/category/podcast/" xmlUrl="http://feed.uxpodcast.com/spotify/" />
+    </outline>
+
 
   </body>
 </opml>
