@@ -4,7 +4,7 @@
     <title>OP Podcasts</title>
     <url>https://raw.githubusercontent.com/cisene/op-podcasts/main/op-podcasts.opml</url>
     <dateCreated>Mon, 19 Feb 2024 10:30:00 +0100</dateCreated>
-    <dateModified>Tue, 05 Mar 2024 11:25:00 +0100</dateModified>
+    <dateModified>Tue, 05 Mar 2024 12:49:00 +0100</dateModified>
     <ownerName>Christopher Isene</ownerName>
     <ownerEmail>christopher.isene@gmail.com</ownerEmail>
   </head>
@@ -41,6 +41,9 @@
       <outline type="link" version="RSS" language="en" title="UX Podcast" text="UX Podcast" htmlUrl="https://uxpodcast.com/category/podcast/" xmlUrl="http://feed.uxpodcast.com/spotify/" />
     </outline>
 
+    <outline text="English: Crimes/Scams" dateCreated="Tue, 05 Mar 2024 12:49:00 +0100" dateModified="Tue, 05 Mar 2024 12:49:00 +0100">
+      <outline type="link" version="RSS" language="en" title="Swindled" text="Swindled" htmlUrl="http://www.swindledpodcast.com/" xmlUrl="https://feeds.megaphone.fm/ADL8288293115" />
+    </outline>
 
   </body>
 </opml>
