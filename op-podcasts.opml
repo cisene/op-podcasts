@@ -4,7 +4,7 @@
     <title>OP Podcasts</title>
     <url>https://raw.githubusercontent.com/cisene/op-podcasts/main/op-podcasts.opml</url>
     <dateCreated>Mon, 19 Feb 2024 10:30:00 +0100</dateCreated>
-    <dateModified>Mon, 26 Feb 2024 16:25:00 +0100</dateModified>
+    <dateModified>Tue, 05 Mar 2024 11:25:00 +0100</dateModified>
     <ownerName>Christopher Isene</ownerName>
     <ownerEmail>christopher.isene@gmail.com</ownerEmail>
   </head>
@@ -31,9 +31,10 @@
       <outline type="link" version="RSS" language="no" title="BartJS Podcast" text="BartJS Podcast" htmlUrl="http://bartjs.io/" xmlUrl="https://feeds.transistor.fm/bartjs-podcast" />
     </outline>
   
-    <outline text="English: Security" dateCreated="Mon, 19 Feb 2024 11:01:00 +0100" dateModified="Mon, 19 Feb 2024 11:05:00 +0100">
+    <outline text="English: Security" dateCreated="Mon, 19 Feb 2024 11:01:00 +0100" dateModified="Tue, 05 Mar 2024 11:25:00 +0100">
       <outline type="link" version="RSS" language="en" title="Malicious Life" text="Malicious Life" htmlUrl="https://redcircle.com/shows/malicious-life" xmlUrl="https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f" />
       <outline type="link" version="RSS" language="en" title="Darknet Diaries" text="Darknet Diaries" htmlUrl="https://darknetdiaries.com/" xmlUrl="https://feeds.megaphone.fm/darknetdiaries" />
+      <outline type="link" version="RSS" language="ev" title="Smashing Security" text="Smashing Security" htmlUrl="https://www.smashingsecurity.com/" xmlUrl="https://www.smashingsecurity.com/rss" />
     </outline>
 
     <outline text="English: Development - UX" dateCreated="Tue, 20 Feb 2024 10:35:00 +0100" dateModified="Tue, 20 Feb 2024 10:35:00 +0100">
