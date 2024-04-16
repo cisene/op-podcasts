@@ -36,7 +36,7 @@
     <outline text="English: Security" dateCreated="Mon, 19 Feb 2024 11:01:00 +0100" dateModified="Tue, 16 Apr 2024 12:07:00 +0200">
       <outline type="link" version="RSS" language="en" title="Malicious Life" text="Malicious Life" htmlUrl="https://redcircle.com/shows/malicious-life" xmlUrl="https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f" />
       <outline type="link" version="RSS" language="en" title="Darknet Diaries" text="Darknet Diaries" htmlUrl="https://darknetdiaries.com/" xmlUrl="https://feeds.megaphone.fm/darknetdiaries" />
-      <outline type="link" version="RSS" language="ev" title="Smashing Security" text="Smashing Security" htmlUrl="https://www.smashingsecurity.com/" xmlUrl="https://www.smashingsecurity.com/rss" />
+      <outline type="link" version="RSS" language="en" title="Smashing Security" text="Smashing Security" htmlUrl="https://www.smashingsecurity.com/" xmlUrl="https://www.smashingsecurity.com/rss" />
       <outline type="link" version="RSS" language="en" title="Cyber Security Sauna" text="Cyber Security Sauna" htmlUrl="https://www.withsecure.com/en/expertise/podcasts" xmlUrl="https://cybersecuritysauna.libsyn.com/rss" />
     </outline>
 
