@@ -4,24 +4,24 @@
     <title>OP Podcasts</title>
     <url>https://raw.githubusercontent.com/cisene/op-podcasts/main/op-podcasts.opml</url>
     <dateCreated>Mon, 19 Feb 2024 10:30:00 +0100</dateCreated>
-    <dateModified>Tue, 16 Apr 2024 12:07:00 +0200</dateModified>
+    <dateModified>Mon, 22 Apr 2024 13:50:00 +0200</dateModified>
     <ownerName>Christopher Isene</ownerName>
     <ownerEmail>christopher.isene@gmail.com</ownerEmail>
   </head>
   <body>
 
     <outline text="Svenska: Säkerhet" dateCreated="Mon, 19 Feb 2024 10:30:00 +0100" dateModified="Tue, 16 Apr 2024 11:58:00 +0200">
-      <outline type="link" version="RSS" language="sv" title="IT-säkerhetspodden" text="IT-säkerhetspodden" htmlUrl="https://www.itsakerhetspodden.se/series/it-sakerhetspodden/" xmlUrl="https://itsakerhetspodden.libsyn.com/rss" />
       <outline type="link" version="RSS" language="sv" title="Bli säker-podden" text="Bli säker-podden" htmlUrl="https://podcast.nikkasystems.com/@blisaker" xmlUrl="https://podcast.nikkasystems.com/@blisaker/feed.xml" />
-      <outline type="link" version="RSS" language="sv" title="Med sikte på" text="Med sikte på" htmlUrl="http://www.soff.se/" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:220139752/sounds.rss" />
-      <outline type="link" version="RSS" language="sv" title="Säkerhetspodcasten" text="Säkerhetspodcasten" htmlUrl="http://sakerhetspodcasten.se/" xmlUrl="https://sakerhetspodcasten.libsyn.com/rss" />
       <outline type="link" version="RSS" language="sv" title="Cyber Chats &amp; Chill" text="Cyber Chats &amp; Chill" htmlUrl="https://shows.acast.com/cyber-chats-chill" xmlUrl="https://feeds.acast.com/public/shows/656da17e4f7d340012d2ecde" />
       <outline type="link" version="RSS" language="sv" title="Cyber Talks" text="Cyber Talks" htmlUrl="https://shows.acast.com/cybertalks" xmlUrl="https://feed.pippa.io/public/shows/5ce650db06d4514a35583f5d" />
+      <outline type="link" version="RSS" language="sv" title="IT-säkerhetspodden" text="IT-säkerhetspodden" htmlUrl="https://www.itsakerhetspodden.se/series/it-sakerhetspodden/" xmlUrl="https://itsakerhetspodden.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="sv" title="Med sikte på" text="Med sikte på" htmlUrl="http://www.soff.se/" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:220139752/sounds.rss" />
+      <outline type="link" version="RSS" language="sv" title="Säkerhetspodcasten" text="Säkerhetspodcasten" htmlUrl="http://sakerhetspodcasten.se/" xmlUrl="https://sakerhetspodcasten.libsyn.com/rss" />
     </outline>
 
     <outline text="Svenska: Samhälle" dateCreated="Mon, 19 Feb 2024 10:55:00 +0100" dateModified="Mon, 26 Feb 2024 16:25:00 +0100">
-      <outline type="link" version="RSS" language="sv" title="Gräns" text="Gräns" htmlUrl="https://sverigesradio.se/grans" xmlUrl="https://api.sr.se/api/rss/pod/34795" />
       <outline type="link" version="RSS" language="sv" title="Dagens Tech" text="Dagens Tech" htmlUrl="https://pod.space/dagenstech" xmlUrl="https://feed.pod.space/dagenstech" />
+      <outline type="link" version="RSS" language="sv" title="Gräns" text="Gräns" htmlUrl="https://sverigesradio.se/grans" xmlUrl="https://api.sr.se/api/rss/pod/34795" />
     </outline>
 
     <outline text="Svenska: Mjukvaruutveckling" dateCreated="Mon, 19 Feb 2024 16:40:00 +0100" dateModified="Mon, 19 Feb 2024 16:40:00 +0100">
@@ -29,15 +29,19 @@
     </outline>
 
     <outline text="Norsk: Utvikling" dateCreated="Tue, 20 Feb 2024 09:20:00 +0100" dateModified="Tue, 20 Feb 2024 09:20:00 +0100">
-      <outline type="link" version="RSS" language="no" title="Kortslutning" text="Kortslutning" htmlUrl="https://kortslutning.fun/" xmlUrl="https://feeds.simplecast.com/UBBVMPjb" />
       <outline type="link" version="RSS" language="no" title="BartJS Podcast" text="BartJS Podcast" htmlUrl="http://bartjs.io/" xmlUrl="https://feeds.transistor.fm/bartjs-podcast" />
+      <outline type="link" version="RSS" language="no" title="Kortslutning" text="Kortslutning" htmlUrl="https://kortslutning.fun/" xmlUrl="https://feeds.simplecast.com/UBBVMPjb" />
     </outline>
   
-    <outline text="English: Security" dateCreated="Mon, 19 Feb 2024 11:01:00 +0100" dateModified="Tue, 16 Apr 2024 12:07:00 +0200">
-      <outline type="link" version="RSS" language="en" title="Malicious Life" text="Malicious Life" htmlUrl="https://redcircle.com/shows/malicious-life" xmlUrl="https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f" />
-      <outline type="link" version="RSS" language="en" title="Darknet Diaries" text="Darknet Diaries" htmlUrl="https://darknetdiaries.com/" xmlUrl="https://feeds.megaphone.fm/darknetdiaries" />
-      <outline type="link" version="RSS" language="en" title="Smashing Security" text="Smashing Security" htmlUrl="https://www.smashingsecurity.com/" xmlUrl="https://www.smashingsecurity.com/rss" />
+    <outline text="English: Security" dateCreated="Mon, 19 Feb 2024 11:01:00 +0100" dateModified="Mon, 22 Apr 2024 13:50:00 +0200">
+      <outline type="link" version="RSS" language="en" title="401 Access Denied" text="401 Access Denied" htmlUrl="https://delinea.com/events/podcasts" xmlUrl="https://feeds.captivate.fm/401-access-denied/" />
+      <outline type="link" version="RSS" language="en" title="Control Loop: The OT Cybersecurity Podcast" text="Control Loop: The OT Cybersecurity Podcast" htmlUrl="https://thecyberwire.com/podcasts/control-loop" xmlUrl="https://feeds.megaphone.fm/control-loop" />
       <outline type="link" version="RSS" language="en" title="Cyber Security Sauna" text="Cyber Security Sauna" htmlUrl="https://www.withsecure.com/en/expertise/podcasts" xmlUrl="https://cybersecuritysauna.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="Darknet Diaries" text="Darknet Diaries" htmlUrl="https://darknetdiaries.com/" xmlUrl="https://feeds.megaphone.fm/darknetdiaries" />
+      <outline type="link" version="RSS" language="en" title="DISCARDED: Tales From the Threat Research Trenches" text="DISCARDED: Tales From the Threat Research Trenches" htmlUrl="https://www.spreaker.com/show/discarded-tales-from-the-threat-research_1" xmlUrl="https://www.spreaker.com/show/5745431/episodes/feed" />
+      <outline type="link" version="RSS" language="en" title="Malicious Life" text="Malicious Life" htmlUrl="https://redcircle.com/shows/malicious-life" xmlUrl="https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f" />
+      <outline type="link" version="RSS" language="en" title="Smashing Security" text="Smashing Security" htmlUrl="https://www.smashingsecurity.com/" xmlUrl="https://www.smashingsecurity.com/rss" />
+      <outline type="link" version="RSS" language="en" title="UNRE: Unnamed Reverse Engineering Podcast" text="UNRE: Unnamed Reverse Engineering Podcast" htmlUrl="https://unnamedre.com/" xmlUrl="https://reverseengineering.libsyn.com/rss" />
     </outline>
 
     <outline text="English: Development - UX" dateCreated="Tue, 20 Feb 2024 10:35:00 +0100" dateModified="Tue, 20 Feb 2024 10:35:00 +0100">
