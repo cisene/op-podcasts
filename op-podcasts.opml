@@ -4,7 +4,7 @@
     <title>OP Podcasts</title>
     <url>https://raw.githubusercontent.com/cisene/op-podcasts/main/op-podcasts.opml</url>
     <dateCreated>Mon, 19 Feb 2024 10:30:00 +0100</dateCreated>
-    <dateModified>Mon, 22 Apr 2024 13:50:00 +0200</dateModified>
+    <dateModified>Mon, 9 Dec 2024 17:21:00 +0200</dateModified>
     <ownerName>Christopher Isene</ownerName>
     <ownerEmail>christopher.isene@gmail.com</ownerEmail>
   </head>
@@ -33,7 +33,7 @@
       <outline type="link" version="RSS" language="no" title="Kortslutning" text="Kortslutning" htmlUrl="https://kortslutning.fun/" xmlUrl="https://feeds.simplecast.com/UBBVMPjb" />
     </outline>
   
-    <outline text="English: Security" dateCreated="Mon, 19 Feb 2024 11:01:00 +0100" dateModified="Mon, 22 Apr 2024 13:50:00 +0200">
+    <outline text="English: Security" dateCreated="Mon, 19 Feb 2024 11:01:00 +0100" dateModified="Mon, 9 Dec 2024 17:21:00 +0200">
       <outline type="link" version="RSS" language="en" title="401 Access Denied" text="401 Access Denied" htmlUrl="https://delinea.com/events/podcasts" xmlUrl="https://feeds.captivate.fm/401-access-denied/" />
       <outline type="link" version="RSS" language="en" title="Control Loop: The OT Cybersecurity Podcast" text="Control Loop: The OT Cybersecurity Podcast" htmlUrl="https://thecyberwire.com/podcasts/control-loop" xmlUrl="https://feeds.megaphone.fm/control-loop" />
       <outline type="link" version="RSS" language="en" title="Cyber Security Sauna" text="Cyber Security Sauna" htmlUrl="https://www.withsecure.com/en/expertise/podcasts" xmlUrl="https://cybersecuritysauna.libsyn.com/rss" />
@@ -42,6 +42,7 @@
       <outline type="link" version="RSS" language="en" title="Malicious Life" text="Malicious Life" htmlUrl="https://redcircle.com/shows/malicious-life" xmlUrl="https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f" />
       <outline type="link" version="RSS" language="en" title="Smashing Security" text="Smashing Security" htmlUrl="https://www.smashingsecurity.com/" xmlUrl="https://www.smashingsecurity.com/rss" />
       <outline type="link" version="RSS" language="en" title="UNRE: Unnamed Reverse Engineering Podcast" text="UNRE: Unnamed Reverse Engineering Podcast" htmlUrl="https://unnamedre.com/" xmlUrl="https://reverseengineering.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="en" title="Getting Defensive Podcast" text="Getting Defensive Podcast" htmlUrl="https://gettingdefensive.com/" xmlUrl="https://gettingdefensive.com/feed/podcast/" />
     </outline>
 
     <outline text="English: Development - UX" dateCreated="Tue, 20 Feb 2024 10:35:00 +0100" dateModified="Tue, 20 Feb 2024 10:35:00 +0100">
