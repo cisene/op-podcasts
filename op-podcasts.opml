@@ -4,19 +4,20 @@
     <title>OP Podcasts</title>
     <url>https://raw.githubusercontent.com/cisene/op-podcasts/main/op-podcasts.opml</url>
     <dateCreated>Mon, 19 Feb 2024 10:30:00 +0100</dateCreated>
-    <dateModified>Mon, 9 Dec 2024 17:21:00 +0200</dateModified>
+    <dateModified>Thu, 06 Mar 2025 16:12:00 +0100</dateModified>
     <ownerName>Christopher Isene</ownerName>
     <ownerEmail>christopher.isene@gmail.com</ownerEmail>
   </head>
   <body>
 
-    <outline text="Svenska: Säkerhet" dateCreated="Mon, 19 Feb 2024 10:30:00 +0100" dateModified="Tue, 16 Apr 2024 11:58:00 +0200">
+    <outline text="Svenska: Säkerhet" dateCreated="Mon, 19 Feb 2024 10:30:00 +0100" dateModified="Thu, 06 Mar 2025 16:12:00 +0100">
       <outline type="link" version="RSS" language="sv" title="Bli säker-podden" text="Bli säker-podden" htmlUrl="https://podcast.nikkasystems.com/@blisaker" xmlUrl="https://podcast.nikkasystems.com/@blisaker/feed.xml" />
       <outline type="link" version="RSS" language="sv" title="Cyber Chats &amp; Chill" text="Cyber Chats &amp; Chill" htmlUrl="https://shows.acast.com/cyber-chats-chill" xmlUrl="https://feeds.acast.com/public/shows/656da17e4f7d340012d2ecde" />
       <outline type="link" version="RSS" language="sv" title="Cyber Talks" text="Cyber Talks" htmlUrl="https://shows.acast.com/cybertalks" xmlUrl="https://feed.pippa.io/public/shows/5ce650db06d4514a35583f5d" />
       <outline type="link" version="RSS" language="sv" title="IT-säkerhetspodden" text="IT-säkerhetspodden" htmlUrl="https://www.itsakerhetspodden.se/series/it-sakerhetspodden/" xmlUrl="https://itsakerhetspodden.libsyn.com/rss" />
       <outline type="link" version="RSS" language="sv" title="Med sikte på" text="Med sikte på" htmlUrl="http://www.soff.se/" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:220139752/sounds.rss" />
       <outline type="link" version="RSS" language="sv" title="Säkerhetspodcasten" text="Säkerhetspodcasten" htmlUrl="http://sakerhetspodcasten.se/" xmlUrl="https://sakerhetspodcasten.libsyn.com/rss" />
+      <outline type="link" version="RSS" language="sv" title="Riskalfabetet" text="Riskalfabetet" htmlUrl="https://sites.libsyn.com/500263" xmlUrl="https://feeds.libsyn.com/500263/rss" />
     </outline>
 
     <outline text="Svenska: Samhälle" dateCreated="Mon, 19 Feb 2024 10:55:00 +0100" dateModified="Mon, 26 Feb 2024 16:25:00 +0100">
