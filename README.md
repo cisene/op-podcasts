@@ -4,11 +4,12 @@ Samlade podcasts för lyssning
 
 Skapad Mon Feb 19 10:30:00 2024 +0000
 
-Uppdaterad Sun Oct 26 16:32:27 2025 +0000
+Uppdaterad Sun Oct 26 16:36:53 2025 +0000
 
 Källa: [https://github.com/cisene/op-podcasts](https://github.com/cisene/op-podcasts)
 
 OPML: [op-podcasts.opml](./op-podcasts.opml)
+OPML direkt: [op-podcasts.opml](https://raw.githubusercontent.com/cisene/op-podcasts/refs/heads/main/op-podcasts.opml)
 
 [TOC]
 

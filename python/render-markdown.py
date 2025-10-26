@@ -67,6 +67,7 @@ def ProcessItems(config):
   md.append(f"")
 
   md.append(f"OPML: [{OPML_FILENAME}](./{OPML_FILENAME})")
+  md.append(f"OPML direkt: [{OPML_FILENAME}](https://raw.githubusercontent.com/cisene/op-podcasts/refs/heads/main/{OPML_FILENAME})")
   md.append(f"")
 
   md.append(f"[TOC]")
