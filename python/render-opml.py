@@ -11,7 +11,7 @@ from lxml import etree
 
 SOURCE_YAML = '../yaml/op-podcasts.yaml'
 
-OUTPUT_FILENAME = '../op-podcasts-test.opml'
+OUTPUT_FILENAME = '../op-podcasts.opml'
 
 global config
 
@@ -100,10 +100,7 @@ def ProcessItems(config):
   body = etree.Element("body")
 
   for section in config['body']:
-    print(section)
-    print("")
     if len(section['podcasts']) > 0:
-
       section_text = section['section']
       section_language = section['language']
       section_podcasts = section['podcasts']
@@ -127,7 +124,6 @@ def ProcessItems(config):
         outline.set('xmlUrl', str(item_xmlUrl))
 
         section.append(outline)
-        #print(item_text)
 
       body.append(section)
 
@@ -136,8 +132,6 @@ def ProcessItems(config):
 
   opml_contents = etree.tostring(opml, pretty_print=True, xml_declaration=True, encoding='UTF-8').decode()
   
-  print(opml_contents)
-
   writeOPML(OUTPUT_FILENAME, opml_contents)
 
 

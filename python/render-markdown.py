@@ -54,8 +54,6 @@ def ProcessItems(config):
   md.append(f"Samlade podcasts för lyssning")
   md.append(f"")
 
-  print(datetime.now())
-
   datecreated_text = datetime.strptime(str(config['global']['dateCreated']), '%Y-%m-%d %H:%M:%S %z').strftime('%c +0000')
   md.append(f"Skapad {datecreated_text}")
   md.append(f"")
@@ -101,7 +99,6 @@ def ProcessItems(config):
 
   
   markdown = "\n".join(md)
-  print(markdown)
   writeMarkdown(OUTPUT_FILENAME, markdown)
 
 
