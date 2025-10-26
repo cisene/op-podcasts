@@ -56,6 +56,11 @@ body:
     htmlUrl: https://sverigesradio.se/grans
     xmlUrl: https://api.sr.se/api/rss/pod/34795
 
+  - text: Beredskap från insidan
+    language: 'sv'
+    htmlUrl: https://shows.acast.com/beredskap-fran-insidan
+    xmlUrl: https://feeds.acast.com/public/shows/685273c2259ce49e3e5247d7
+
 - section: 'Svenska: Mjukvaruutveckling'
   language: 'sv'
   podcasts:
@@ -65,6 +70,10 @@ body:
     htmlUrl: https://kodsnack.se/
     xmlUrl: https://kodsnack.libsyn.com/rss
 
+  - text: Kompilator
+    language: 'sv'
+    htmlUrl: https://kompilator.se/
+    xmlUrl: https://feeds.tremolo.se/Kompilator-82fcb05f-4123-5fe0-a7cf-2eb8badf4f4a.xml
 
 - section: 'Norsk: Utvikling'
   language: 'no'
@@ -128,6 +137,15 @@ body:
     language: en
     htmlUrl: https://gettingdefensive.com/
     xmlUrl: https://gettingdefensive.com/feed/podcast/
+
+- section: 'English: Software Engineering'
+  language: 'en'
+  podcasts:
+
+  - text: The Pragmatic Engineer
+    language: en
+    htmlUrl: https://newsletter.pragmaticengineer.com/podcast
+    xmlUrl: https://api.substack.com/feed/podcast/458709.rss
 
 - section: 'English: Development - UX'
   language: 'en'
