@@ -138,8 +138,7 @@ def ProcessItems(config):
   
   print(opml_contents)
 
-  #writeOPML(filepath, opml_contents)
-  #print(f"Wrote {filepath} ..")
+  writeOPML(OUTPUT_FILENAME, opml_contents)
 
 
 def main():
