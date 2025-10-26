@@ -1,0 +1,148 @@
+---
+global:
+  ownerName: Christopher Isene
+  ownerEmail: christopher.isene@gmail.com
+  url: https://raw.githubusercontent.com/cisene/op-podcasts/main/op-podcasts.opml
+  title: OP Podcasts
+  dateCreated: 2024-02-19 10:30:00 +0100
+
+body:
+
+- section: 'Svenska: Säkerhet'
+  language: 'sv'
+  podcasts:
+
+  - text: Bli säker-podden
+    language: 'sv'
+    htmlUrl: https://podcast.nikkasystems.com/@blisaker
+    xmlUrl: https://podcast.nikkasystems.com/@blisaker/feed.xml
+
+  - text: Cyber Chats & Chill
+    language: 'sv'
+    htmlUrl: https://shows.acast.com/cyber-chats-chill
+    xmlUrl: https://feeds.acast.com/public/shows/656da17e4f7d340012d2ecde
+
+  - text: Cyber Talks
+    language: 'sv'
+    htmlUrl: https://shows.acast.com/cybertalks
+    xmlUrl: https://feed.pippa.io/public/shows/5ce650db06d4514a35583f5d
+
+  - text: IT-säkerhetspodden
+    language: 'sv'
+    htmlUrl: https://www.itsakerhetspodden.se/series/it-sakerhetspodden/
+    xmlUrl: https://itsakerhetspodden.libsyn.com/rss
+
+  - text: Med sikte på
+    language: 'sv'
+    htmlUrl: http://www.soff.se/
+    xmlUrl: https://feeds.soundcloud.com/users/soundcloud:users:220139752/sounds.rss
+
+  - text: Säkerhetspodcasten
+    language: 'sv'
+    htmlUrl: http://sakerhetspodcasten.se/
+    xmlUrl: https://sakerhetspodcasten.libsyn.com/rss
+
+- section: 'Svenska: Samhälle'
+  language: 'sv'
+  podcasts:
+
+  - text: Dagens Tech
+    language: 'sv'
+    htmlUrl: https://pod.space/dagenstech
+    xmlUrl: https://feed.pod.space/dagenstech
+
+  - text: Gräns
+    language: 'sv'
+    htmlUrl: https://sverigesradio.se/grans
+    xmlUrl: https://api.sr.se/api/rss/pod/34795
+
+- section: 'Svenska: Mjukvaruutveckling'
+  language: 'sv'
+  podcasts:
+
+  - text: Kodsnack
+    language: 'sv'
+    htmlUrl: https://kodsnack.se/
+    xmlUrl: https://kodsnack.libsyn.com/rss
+
+
+- section: 'Norsk: Utvikling'
+  language: 'no'
+  podcasts:
+
+  - text: BartJS Podcast
+    language: 'no'
+    htmlUrl: http://bartjs.io/
+    xmlUrl: https://feeds.transistor.fm/bartjs-podcast
+
+  - text: Kortslutning
+    language: 'no'
+    htmlUrl: https://kortslutning.fun/
+    xmlUrl: https://feeds.simplecast.com/UBBVMPjb
+
+- section: 'English: Security'
+  language: 'en'
+  podcasts:
+
+  - text: 401 Access Denied
+    language: en
+    htmlUrl: https://delinea.com/events/podcasts
+    xmlUrl: https://feeds.captivate.fm/401-access-denied/
+
+  - text: 'Control Loop: The OT Cybersecurity Podcast'
+    language: en
+    htmlUrl: https://thecyberwire.com/podcasts/control-loop
+    xmlUrl: https://feeds.megaphone.fm/control-loop
+
+  - text: Cyber Security Sauna
+    language: en
+    htmlUrl: https://www.withsecure.com/en/expertise/podcasts
+    xmlUrl: https://cybersecuritysauna.libsyn.com/rss
+
+  - text: Darknet Diaries
+    language: en
+    htmlUrl: https://darknetdiaries.com/
+    xmlUrl: https://feeds.megaphone.fm/darknetdiaries
+
+  - text: 'DISCARDED: Tales From the Threat Research Trenches'
+    language: en
+    htmlUrl: https://www.spreaker.com/show/discarded-tales-from-the-threat-research_1
+    xmlUrl: https://www.spreaker.com/show/5745431/episodes/feed
+
+  - text: Malicious Life
+    language: en
+    htmlUrl: https://redcircle.com/shows/malicious-life
+    xmlUrl: https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f
+
+  - text: Smashing Security
+    language: en
+    htmlUrl: https://www.smashingsecurity.com/
+    xmlUrl: https://www.smashingsecurity.com/rss
+
+  - text: 'UNRE: Unnamed Reverse Engineering Podcast'
+    language: en
+    htmlUrl: https://unnamedre.com/
+    xmlUrl: https://reverseengineering.libsyn.com/rss
+
+  - text: Getting Defensive Podcast
+    language: en
+    htmlUrl: https://gettingdefensive.com/
+    xmlUrl: https://gettingdefensive.com/feed/podcast/
+
+- section: 'English: Development - UX'
+  language: 'en'
+  podcasts:
+
+  - text: UX Podcast
+    language: en
+    htmlUrl: https://uxpodcast.com/category/podcast/
+    xmlUrl: http://feed.uxpodcast.com/spotify/
+
+- section: 'English: Crimes/Scams'
+  language: 'en'
+  podcasts:
+
+  - text: Swindled
+    language: en
+    htmlUrl: http://www.swindledpodcast.com/
+    xmlUrl: https://feeds.megaphone.fm/ADL8288293115
