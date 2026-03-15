@@ -138,6 +138,11 @@ body:
     htmlUrl: https://gettingdefensive.com/
     xmlUrl: https://gettingdefensive.com/feed/podcast/
 
+  - text: SANS Internet Storm Center's Daily Network Security News Podcast
+    language: en
+    htmlUrl: https://isc.sans.edu/podcastdetail.html
+    xmlUrl: https://securitypodcast.libsyn.com/rss
+
 - section: 'English: Software Engineering'
   language: 'en'
   podcasts:
@@ -159,6 +164,11 @@ body:
 - section: 'English: Crimes/Scams'
   language: 'en'
   podcasts:
+
+  - text: Darknet Diaries
+    language: en
+    htmlUrl: https://darknetdiaries.com/
+    xmlUrl: https://feeds.megaphone.fm/darknetdiaries
 
   - text: Swindled
     language: en
