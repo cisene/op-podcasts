@@ -32,7 +32,7 @@ def LoadYamlConfig(filepath):
   return config
 
 def formatDateStringUTCNow():
-  result = datetime.utcnow().strftime('%c +0000')
+  result = datetime.now().strftime('%c +0100')
   return result
 
 def formatDateString(data):

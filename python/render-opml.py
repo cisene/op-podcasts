@@ -30,7 +30,7 @@ def LoadYamlConfig(filepath):
   return config
 
 def formatDateStringUTCNow():
-  result = datetime.utcnow().strftime('%c +0000')
+  result = datetime.now().strftime('%c +0100')
   return result
 
 def formatDateString(data):
@@ -40,7 +40,8 @@ def formatDateString(data):
 
 
 def ProcessItems(config):
-  utc_now = datetime.now().isoformat()
+  #utc_now = datetime.now().isoformat()
+  utc_now = datetime.now()
 
   if config == None:
     print("config is empty")
@@ -109,7 +110,8 @@ def ProcessItems(config):
       section.set('language', str(section_language))
 
       for item in section_podcasts:
-        item_text = item['text']
+        if "text" in item:
+          item_text = item['text']
         item_language = item['language']
         item_htmlUrl = item['htmlUrl']
         item_xmlUrl = item['xmlUrl']
