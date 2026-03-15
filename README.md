@@ -4,7 +4,7 @@ Samlade podcasts för lyssning
 
 Skapad Mon Feb 19 10:30:00 2024 +0000
 
-Uppdaterad Sun Oct 26 16:36:53 2025 +0000
+Uppdaterad Sun Mar 15 17:45:22 2026 +0100
 
 Källa: [https://github.com/cisene/op-podcasts](https://github.com/cisene/op-podcasts)
 
@@ -127,6 +127,10 @@ OPML direkt: [op-podcasts.opml](https://raw.githubusercontent.com/cisene/op-podc
 * [Hemsida](https://gettingdefensive.com/)
 * [RSS-flöde](https://gettingdefensive.com/feed/podcast/)
 
+### SANS Internet Storm Center's Daily Network Security News Podcast
+* [Hemsida](https://isc.sans.edu/podcastdetail.html)
+* [RSS-flöde](https://securitypodcast.libsyn.com/rss)
+
 
 
 ## English: Software Engineering
@@ -149,6 +153,10 @@ OPML direkt: [op-podcasts.opml](https://raw.githubusercontent.com/cisene/op-podc
 
 ## English: Crimes/Scams
 * Språk: en
+
+### Darknet Diaries
+* [Hemsida](https://darknetdiaries.com/)
+* [RSS-flöde](https://feeds.megaphone.fm/darknetdiaries)
 
 ### Swindled
 * [Hemsida](http://www.swindledpodcast.com/)
